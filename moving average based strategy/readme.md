@@ -1,3 +1,4 @@
+All the strategy has been backtested by using pyalgotrade on 1 min timeframe-data of bank-nifty from 2012 to 2016
 
 Stg1 LE: MA10 crosses above MA20, LX: MA10 crosses below MA20
 
